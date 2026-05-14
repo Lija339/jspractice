@@ -26,3 +26,5 @@ let s=new Studentts("AAA",12)
 s.showdetails()
 let m=s.displaymark("Maths", 80)
 console.log(s)
+
+console
