@@ -27,4 +27,3 @@ s.showdetails()
 let m=s.displaymark("Maths", 80)
 console.log(s)
 
-console
